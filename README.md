@@ -66,4 +66,4 @@ DE
 - datetime
 - re
 
-Inspiriert durch des Reddit-Benutzers Ingebors (https://www.reddit.com/user/ingebor) monatliche CPU Verkaufsübersicht.
+Inspiriert durch die monatliche CPU Verkaufsübersicht des Reddit-Benutzers Ingebors (https://www.reddit.com/user/ingebor).
